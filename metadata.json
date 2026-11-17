@@ -1,0 +1,6 @@
+{
+  "name": "Kestrel OS",
+  "description": "Interactive custom desktop operating system simulator with a persistent virtual file system, window manager, terminal shell, code studio, and system monitor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
